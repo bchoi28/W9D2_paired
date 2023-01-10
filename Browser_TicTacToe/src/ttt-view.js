@@ -1,13 +1,16 @@
 class View {
-  constructor(game, el) {}
+  constructor(game, el) {
+    this.game = game;
 
-  setupBoard() {}
-  
-  bindEvents() {}
+  }
+  setupBoard() { }
+  createElement
+  append
+  bindEvents() { }
 
-  handleClick(e) {}
+  handleClick(e) { }
 
-  makeMove(square) {}
+  makeMove(square) { }
 
 }
 
